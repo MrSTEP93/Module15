@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Module15.Final1
 {
-    internal partial class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
