@@ -2,11 +2,8 @@
 
 namespace Module15.Final1
 {
-    internal partial class Program
+    public class Classroom
     {
-        public class Classroom
-        {
-            public List<string> Students = new List<string>();
-        }
+        public List<string> Students = new List<string>();
     }
 }
